@@ -14,6 +14,8 @@ Excel, Solver
 The primary objective of this study is to develop an optimized territory design strategy for Blue Bell Ice Cream’s North Texas region. Additionally, we will assess whether the current territory centers (Moore, Donley, and Briscoe) are optimal or if alternative locations could better balance workload and travel costs.
 ## Insights:
 We analyzed the distance of each county from the HQ and used Solver to determine the optimal location. The selected HQ minimizes total costs while ensuring efficient territory distribution.
+![Screenshot 2025-04-01 121745](https://github.com/user-attachments/assets/5c45c253-fa12-4846-8872-28da0fb7c546)
+
 
 1.	Optimization Outcome: By leveraging Solver and macros, we identified Montague County (47) as a more optimal territory center instead of Briscoe County (24), leading to improved workload distribution and efficiency.
 2.	Cost Reduction: The optimized solution significantly lowers the total cost from $2,913,708 (base case) to $1,976,515, resulting in savings of $937,192 (a 32% reduction).
